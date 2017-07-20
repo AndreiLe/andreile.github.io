@@ -307,7 +307,7 @@ div.validation_ticker_icon {
     float: left;
     margin: 4px 0 0 6px;
     background: rgba(0, 0, 0, 0.25);
-    background-image: url(https://andreile.github.io/castlepuzzle//icons/h2-all.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/h2-all.png);
     background-repeat: no-repeat;
     background-position: 0 -31px
 }
@@ -11051,7 +11051,7 @@ h3 a:visited {
     font-style: italic;
     font-weight: bold;
     display: block;
-    background: transparent url(http:https://andreile.github.io/castlepuzzle/bg-main/podstripe.gif) center bottom no-repeat!important
+    background: transparent url(https://andreile.github.io/castlepuzzle/bg-main/podstripe.gif) center bottom no-repeat!important
 }
 
 h4 {
@@ -11102,7 +11102,7 @@ div.podtop>h2 {
     font-size-adjust: .4;
     line-height: 1.1em;
     font-weight: normal;
-    background-image: url(http:https://andreile.github.io/castlepuzzle/icons/h2-all.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/h2-all.png);
     background-repeat: no-repeat
 }
 
@@ -11148,7 +11148,7 @@ div.podcontent>p>a:active {
 .bbstext p a[id*="exlink"] {
     margin-right: 3px;
     padding-right: 15px;
-    background: url(http:https://andreile.github.io/castlepuzzle/icons/tinyicons-vert.png) right -325px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/tinyicons-vert.png) right -325px no-repeat
 }
 
 div.podcontent>p>a[href*="newgrounds.com"],
@@ -11227,7 +11227,7 @@ hr {
     margin: 5px 0;
     border-left: solid 1px #211b1b;
     border-right: solid 1px #211b1b;
-    background: #000 url(http:https://andreile.github.io/castlepuzzle/bg-main/podstripe.gif) -1px bottom repeat-x
+    background: #000 url(https://andreile.github.io/castlepuzzle/bg-main/podstripe.gif) -1px bottom repeat-x
 }
 
 .thincol hr {
@@ -11497,7 +11497,7 @@ div.wikitext .podcontent h4 {
     font-size: 14px;
     color: #fff;
     font-style: italic;
-    background: url(http:https://andreile.github.io/castlepuzzle/bg-main/podstripe.gif) left bottom no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-main/podstripe.gif) left bottom no-repeat
 }
 
 div.wikitext .podcontent h4,
@@ -11540,7 +11540,7 @@ div.wikitext>.podcontent>ul {
 
 div.wikitext>.podcontent>ul li {
     padding-left: 10px;
-    background: url(http:https://andreile.github.io/castlepuzzle/icons/tinyicons-vert.png) left -719px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/tinyicons-vert.png) left -719px no-repeat
 }
 
 div.wikitext>.podcontent>h2+ul {
@@ -15433,11 +15433,11 @@ strong.messenger-icq {
 }
 
 div.podtop div a[class]>span:first-child {
-    background-image: url(http:https://andreile.github.io/castlepuzzle/icons/a-15yellows-playlist.png)
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/a-15yellows-playlist.png)
 }
 
 div.podtop a.pl-add span {
-    background-image: url(http:https://andreile.github.io/castlepuzzle/icons/a-15yellows-playlist.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/a-15yellows-playlist.png);
     background-position: -600px 0
 }
 
@@ -15448,7 +15448,7 @@ div.podtop a:hover.pl-add span {
 div.medalicon div {
     width: 50px;
     height: 50px;
-    background-image: url(http:https://andreile.github.io/castlepuzzle/icons/medal_overlays.png)
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/medal_overlays.png)
 }
 
 div.medalstatus-secret {
