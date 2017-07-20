@@ -6,7 +6,7 @@
 
 body {
     position: relative;
-    background: #000 url(//cssimg.ngfiles.com/bg-skins/gold2-body.gif) top center repeat-y
+    background: #000 url(https://andreile.github.io/castlepuzzle/bg-skins/gold2-body.gif) top center repeat-y
 }
 
 div.passport_head_links {
@@ -15,7 +15,7 @@ div.passport_head_links {
     font-size: 2em;
     padding-left: 76px;
     font-weight: bold;
-    background: url('//cssimg.ngfiles.com/icons/passport-header-icons.png') 14px 9px no-repeat
+    background: url('https://andreile.github.io/castlepuzzle/icons/passport-header-icons.png') 14px 9px no-repeat
 }
 
 div.passport_head_links a {
@@ -229,7 +229,7 @@ div.uploads_page_links a.upload_projects:hover {
     padding: 0;
     width: 80px;
     height: 80px;
-    background: url("//cssimg.ngfiles.com/icons/in-progress/i80.gif") 0 0 no-repeat
+    background: url("https://andreile.github.io/castlepuzzle/icons/in-progress/i80.gif") 0 0 no-repeat
 }
 
 .skipto {
@@ -307,7 +307,7 @@ div.validation_ticker_icon {
     float: left;
     margin: 4px 0 0 6px;
     background: rgba(0, 0, 0, 0.25);
-    background-image: url(//cssimg.ngfiles.com//icons/h2-all.png);
+    background-image: url(https://andreile.github.io/castlepuzzle//icons/h2-all.png);
     background-repeat: no-repeat;
     background-position: 0 -31px
 }
@@ -356,7 +356,7 @@ div.validation_ticker_msg {
     top: 0;
     width: 976px;
     height: 48px;
-    background: url(//cssimg.ngfiles.com/bg-header/sitelinks.png) top center no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-header/sitelinks.png) top center no-repeat
 }
 
 .sitelinks .search {
@@ -365,7 +365,7 @@ div.validation_ticker_msg {
     right: 12px;
     height: 25px;
     padding-left: 20px;
-    background: url(//cssimg.ngfiles.com/bg-header/search.png) 0 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-header/search.png) 0 0 no-repeat
 }
 
 .sitelinks .search input {
@@ -440,7 +440,7 @@ div.validation_ticker_msg {
     margin: 3px;
     text-indent: -9999em;
     overflow: hidden;
-    background-image: url(//cssimg.ngfiles.com/icons/a-15yellows.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/a-15yellows.png);
     background-repeat: no-repeat
 }
 
@@ -520,7 +520,7 @@ div.eventlist a {
     display: block;
     width: 220px;
     height: 30px;
-    background: url(//cssimg.ngfiles.com/bg-header/activityfeed.jpg) 0 0 no-repeat;
+    background: url(https://andreile.github.io/castlepuzzle/bg-header/activityfeed.jpg) 0 0 no-repeat;
     opacity: .8
 }
 
@@ -537,7 +537,7 @@ div.eventlist a {
 }
 
 div.eventlist a:hover {
-    background: url(//cssimg.ngfiles.com/bg-header/activityfeed.jpg) 0 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-header/activityfeed.jpg) 0 0 no-repeat
 }
 
 div.eventlist img {
@@ -718,7 +718,7 @@ div.eventlist li.lit img {
     margin: 0;
     width: 256px;
     height: 63px;
-    background: url(//cssimg.ngfiles.com/bg-header/logo.png) bottom right no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-header/logo.png) bottom right no-repeat
 }
 
 .header h6 a {
@@ -726,7 +726,7 @@ div.eventlist li.lit img {
     margin-top: -69px;
     width: 68px;
     height: 15px;
-    background: url(//cssimg.ngfiles.com/bg-header/wallartist.png) top left no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-header/wallartist.png) top left no-repeat
 }
 
 .header h6:before,
@@ -745,7 +745,7 @@ div.eventlist li.lit img {
     width: 976px;
     height: 54px;
     padding-top: 1px;
-    background: url(//cssimg.ngfiles.com/bg-header/navigationTop.png) top left no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-header/navigationTop.png) top left no-repeat
 }
 
 .header .navigation .navbar {
@@ -767,40 +767,40 @@ div.eventlist li.lit img {
 
 #games {
     left: 0;
-    background-image: url(//cssimg.ngfiles.com/bg-header/subnav-games.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-header/subnav-games.jpg)
 }
 
 #movies {
     left: 136px;
-    background-image: url(//cssimg.ngfiles.com/bg-header/subnav-movies.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-header/subnav-movies.jpg)
 }
 
 #audio {
     left: 272px;
-    background-image: url(//cssimg.ngfiles.com/bg-header/subnav-audio.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-header/subnav-audio.jpg)
 }
 
 #art {
     left: 408px;
-    background-image: url(//cssimg.ngfiles.com/bg-header/subnav-art.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-header/subnav-art.jpg)
 }
 
 #channels {
     width: 143px;
     left: 544px;
-    background-image: url(//cssimg.ngfiles.com/bg-header/subnav-channels.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-header/subnav-channels.jpg)
 }
 
 #community {
     width: 143px;
     left: 687px;
-    background-image: url(//cssimg.ngfiles.com/bg-header/subnav-community.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-header/subnav-community.jpg)
 }
 
 #shop {
     width: 130px;
     left: 830px;
-    background-image: url(//cssimg.ngfiles.com/bg-header/subnav-shop.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-header/subnav-shop.jpg)
 }
 
 .header .navigation dt a {
@@ -811,7 +811,7 @@ div.eventlist li.lit img {
     border-bottom: solid 1px #1b1717;
     text-indent: -4040em;
     overflow: hidden;
-    background: url(//cssimg.ngfiles.com/bg-header/navbar2016.jpg) top left no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-header/navbar2016.jpg) top left no-repeat
 }
 
 #games dt a {
@@ -916,7 +916,7 @@ div.eventlist li.lit img {
 }
 
 .header .navigation dd:hover {
-    background: url(//cssimg.ngfiles.com/bg-header/subnav-hover.jpg) 0 0 repeat-x
+    background: url(https://andreile.github.io/castlepuzzle/bg-header/subnav-hover.jpg) 0 0 repeat-x
 }
 
 #movies dd:hover {
@@ -948,7 +948,7 @@ div.eventlist li.lit img {
     width: 100%;
     height: 100%;
     padding-left: 9px;
-    background: url(//cssimg.ngfiles.com/bg-footer/nav-corners.gif) 119px 11px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-footer/nav-corners.gif) 119px 11px no-repeat
 }
 
 #channels dd a,
@@ -979,7 +979,7 @@ div.eventlist li.lit img {
     width: 976px;
     height: 100px;
     margin: -2px auto 0 auto;
-    background: url(//cssimg.ngfiles.com/bg-header/topbar.jpg) top center no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-header/topbar.jpg) top center no-repeat
 }
 
 .header-enrollment>div {
@@ -1039,12 +1039,12 @@ body.adskin .GAR_header_topbar {
     height: 685px;
     margin: 0 auto;
     color: #c9bebe;
-    background: url(//cssimg.ngfiles.com/bg-footer/footer.jpg) top left repeat-y
+    background: url(https://andreile.github.io/castlepuzzle/bg-footer/footer.jpg) top left repeat-y
 }
 
 .featuredcontent {
     height: 194px;
-    background: url(//cssimg.ngfiles.com/bg-footer/featuredcontent.jpg) top left no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-footer/featuredcontent.jpg) top left no-repeat
 }
 
 .featurebar {
@@ -1063,7 +1063,7 @@ body.adskin .GAR_header_topbar {
     margin-left: 10px;
     text-indent: -9999em;
     overflow: hidden;
-    background: url(//cssimg.ngfiles.com/bg-footer/featuretitle.jpg) 0 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-footer/featuretitle.jpg) 0 0 no-repeat
 }
 
 .featurebar dd {
@@ -1077,7 +1077,7 @@ body.adskin .GAR_header_topbar {
     margin-top: 5px;
     text-indent: -9999em;
     overflow: hidden;
-    background: url(//cssimg.ngfiles.com/bg-footer/featurebar.jpg) top left no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-footer/featurebar.jpg) top left no-repeat
 }
 
 #featgames a {
@@ -1167,7 +1167,7 @@ body.adskin .GAR_header_topbar {
     height: 110px;
     text-indent: -9999em;
     overflow: hidden;
-    background: url(//cssimg.ngfiles.com/bg-footer/a-stripes.png) top left repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-footer/a-stripes.png) top left repeat
 }
 
 .footerfeatures a.fprev {
@@ -1184,7 +1184,7 @@ body.adskin .GAR_header_topbar {
     height: 8px;
     margin-top: 47px;
     margin-left: 10px;
-    background-image: url(//cssimg.ngfiles.com/bg-footer/featurearrow.gif);
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-footer/featurearrow.gif);
     background-repeat: no-repeat
 }
 
@@ -1217,7 +1217,7 @@ body.adskin .GAR_header_topbar {
     height: 110px;
     margin-right: 1px;
     padding-right: 6px;
-    background: url(//cssimg.ngfiles.com/bg-footer/footerfeature.png) top left repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-footer/footerfeature.png) top left repeat
 }
 
 .footerfeatures h4 {
@@ -1303,7 +1303,7 @@ body.adskin .GAR_header_topbar {
     bottom: 0;
     width: 976px;
     height: 400px;
-    background: url(//cssimg.ngfiles.com/bg-skins/gold-footer.jpg) 3px bottom no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-skins/gold-footer.jpg) 3px bottom no-repeat
 }
 
 #footer .copyright {
@@ -1314,7 +1314,7 @@ body.adskin .GAR_header_topbar {
     width: 644px;
     height: 45px;
     padding-left: 50px;
-    background: url(//cssimg.ngfiles.com/bg-footer/logo-tiny.png) top left no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-footer/logo-tiny.png) top left no-repeat
 }
 
 #footer .navigation {
@@ -1341,7 +1341,7 @@ body.adskin .GAR_header_topbar {
     height: 25px;
     margin-bottom: 1px;
     color: #eeb211;
-    background: url(//cssimg.ngfiles.com/misc/link_stripes2.png) 0 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/misc/link_stripes2.png) 0 0 no-repeat
 }
 
 #footer .navigation dd a:hover {
@@ -1366,7 +1366,7 @@ body.adskin .GAR_header_topbar {
     margin-left: 8px;
     padding-left: 5px;
     border-left: solid 2px #e15f20;
-    background: url(//cssimg.ngfiles.com/bg-footer/nav-corners.gif) right -21px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-footer/nav-corners.gif) right -21px no-repeat
 }
 
 #footer .navigation a:hover span {
@@ -1410,7 +1410,7 @@ button {
     border-right-width: 1px;
     border-bottom-width: 2px;
     border-style: solid;
-    background: url(//cssimg.ngfiles.com/bg-skins/buttons/button-gold.gif) left 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-skins/buttons/button-gold.gif) left 0 no-repeat
 }
 
 button:hover {
@@ -1440,7 +1440,7 @@ a.fakebutton:visited {
     border-right-width: 1px;
     border-bottom-width: 2px;
     border-style: solid;
-    background: url(//cssimg.ngfiles.com/bg-skins/buttons/button-gray.gif) left 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-skins/buttons/button-gray.gif) left 0 no-repeat
 }
 
 a.fakebutton:hover {
@@ -1491,7 +1491,7 @@ input[type="password"] {
     border-color: #000;
     border-style: solid;
     border-width: 0 1px 2px 1px;
-    background: #ea8d42 url(//cssimg.ngfiles.com/bg-skins/inputs/input-gold.jpg) top left repeat-x
+    background: #ea8d42 url(https://andreile.github.io/castlepuzzle/bg-skins/inputs/input-gold.jpg) top left repeat-x
 }
 
 input[type="password"] {
@@ -1542,7 +1542,7 @@ div.upload div {
     border-right-width: 1px;
     border-bottom-width: 2px;
     border-style: solid;
-    background: url(//cssimg.ngfiles.com/bg-skins/buttons/button-gold.gif) left 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-skins/buttons/button-gold.gif) left 0 no-repeat
 }
 
 div.upload input[type="file"],
@@ -1586,7 +1586,7 @@ textarea {
     border-color: #000;
     border-style: solid;
     border-width: 0 1px 2px 1px;
-    background: #f19e52 url(//cssimg.ngfiles.com/bg-skins/textareas/textarea-gold.jpg) repeat-x
+    background: #f19e52 url(https://andreile.github.io/castlepuzzle/bg-skins/textareas/textarea-gold.jpg) repeat-x
 }
 
 textarea[cols="35"] {
@@ -1699,7 +1699,7 @@ ul.checkboxes li:only-child {
 
 .checkboxes span {
     float: left;
-    background: url(//cssimg.ngfiles.com/formstuff/input-checkboxes.jpg) 0 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/formstuff/input-checkboxes.jpg) 0 0 no-repeat
 }
 
 .checkboxes label {
@@ -1707,7 +1707,7 @@ ul.checkboxes li:only-child {
     height: 17px;
     line-height: 16px;
     padding-left: 20px;
-    background: url(//cssimg.ngfiles.com/formstuff/input-tick.png) 0 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/formstuff/input-tick.png) 0 0 no-repeat
 }
 
 .checkboxes input:checked~span label {
@@ -1732,11 +1732,11 @@ ul.checkboxes li:only-child {
 }
 
 .checkboxes input[type="radio"]~span {
-    background-image: url(//cssimg.ngfiles.com/formstuff/input-radiobuttons.png)
+    background-image: url(https://andreile.github.io/castlepuzzle/formstuff/input-radiobuttons.png)
 }
 
 .checkboxes input[type="radio"]~span label {
-    background-image: url(//cssimg.ngfiles.com/formstuff/input-radio.png)
+    background-image: url(https://andreile.github.io/castlepuzzle/formstuff/input-radio.png)
 }
 
 .checkboxes li input[type="text"] {
@@ -1789,7 +1789,7 @@ ul.simple-ul.ng-subscriptions input[type="checkbox"]:checked~span label {
 
 ul.simple-ul.ng-subscriptions li>span {
     float: left;
-    background: url(//cssimg.ngfiles.com/formstuff/input-checkboxes.jpg) 0 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/formstuff/input-checkboxes.jpg) 0 0 no-repeat
 }
 
 ul.simple-ul.ng-subscriptions label {
@@ -1797,7 +1797,7 @@ ul.simple-ul.ng-subscriptions label {
     height: 17px;
     line-height: 16px;
     padding-left: 20px;
-    background: url(//cssimg.ngfiles.com/formstuff/input-tick.png) 0 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/formstuff/input-tick.png) 0 0 no-repeat
 }
 
 div.select {
@@ -1809,7 +1809,7 @@ div.select {
     border-left: solid 1px #000;
     border-right: solid 1px #000;
     border-bottom: solid 2px #000;
-    background: url(//cssimg.ngfiles.com/bg-skins/inputs/input-gold.jpg) top left repeat-x
+    background: url(https://andreile.github.io/castlepuzzle/bg-skins/inputs/input-gold.jpg) top left repeat-x
 }
 
 div.select>select {
@@ -1850,7 +1850,7 @@ div.select>div {
     right: 0;
     width: 26px;
     height: 25px;
-    background: url(//cssimg.ngfiles.com/formstuff/select-fakearrow.gif) top left no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/formstuff/select-fakearrow.gif) top left no-repeat
 }
 
 div.select>ul {
@@ -1913,7 +1913,7 @@ fieldset.starselect {
     margin: 10px 5px 5px 45px;
     width: 150px;
     height: 30px;
-    background: url(//cssimg.ngfiles.com/misc/vp-StarSelect.png) top left repeat-x
+    background: url(https://andreile.github.io/castlepuzzle/misc/vp-StarSelect.png) top left repeat-x
 }
 
 fieldset.starselect input {
@@ -1931,12 +1931,12 @@ fieldset.starselect label {
 }
 
 fieldset.starselect label:hover {
-    background-image: url(//cssimg.ngfiles.com/misc/vp-StarSelect.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/misc/vp-StarSelect.png);
     background-position: left -30px
 }
 
 fieldset.starselect input:checked+label {
-    background-image: url(//cssimg.ngfiles.com/misc/vp-StarSelect.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/misc/vp-StarSelect.png);
     background-position: left -60px
 }
 
@@ -1948,7 +1948,7 @@ fieldset.starselect input:checked+label:hover {
     width: 30px;
     z-index: 16;
     left: -40px;
-    background: url(//cssimg.ngfiles.com/misc/vp-StarSelect.png) 0 -120px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/misc/vp-StarSelect.png) 0 -120px no-repeat
 }
 
 .starselect label[for$="_0"]:hover {
@@ -2053,7 +2053,7 @@ ul.smileyselect li {
     height: 25px;
     margin-right: 6px;
     margin-bottom: 5px;
-    background: url(//cssimg.ngfiles.com/formstuff/li-emoteselectTEMP.gif) top left no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/formstuff/li-emoteselectTEMP.gif) top left no-repeat
 }
 
 ul.smileyselect input {
@@ -2092,7 +2092,7 @@ ul.smileyselect li:nth-child(21) {
     padding: 12px 5px 0 190px;
     margin-top: 8px;
     color: #7d7575;
-    background: url(//cssimg.ngfiles.com/bg-main/podstripe.gif) center 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-main/podstripe.gif) center 0 no-repeat
 }
 
 .formfields span {
@@ -2264,7 +2264,7 @@ div.upload+span {
 .formfields>div div.upload~div>strong[class] {
     padding-left: 25px;
     line-height: 2em;
-    background-image: url(//cssimg.ngfiles.com/icons/td-dumpfiles.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/td-dumpfiles.png);
     background-repeat: no-repeat
 }
 
@@ -2613,7 +2613,7 @@ div.termsblock * {
     width: 950px;
     margin: 0 auto;
     padding: 10px 13px 0 13px;
-    background: url(//cssimg.ngfiles.com/bg-main/bg-main.gif) top center repeat-y
+    background: url(https://andreile.github.io/castlepuzzle/bg-main/bg-main.gif) top center repeat-y
 }
 
 body.supporter #main {
@@ -2624,7 +2624,7 @@ body.supporter #main:before {
     content: "";
     display: block;
     position: absolute;
-    background: url(//cssimg.ngfiles.com/bg-header/supporter-main-shadow.jpg) no-repeat;
+    background: url(https://andreile.github.io/castlepuzzle/bg-header/supporter-main-shadow.jpg) no-repeat;
     height: 10px;
     width: 970px;
     margin: -10px 0 0 -10px
@@ -2675,7 +2675,7 @@ div.podtop {
     position: relative;
     display: block;
     height: 41px;
-    background: #4f280e url(//cssimg.ngfiles.com/bg-skins/podtops/podtop-gold.jpg) left 0 no-repeat
+    background: #4f280e url(https://andreile.github.io/castlepuzzle/bg-skins/podtops/podtop-gold.jpg) left 0 no-repeat
 }
 
 div.podtop>div {
@@ -2723,19 +2723,19 @@ div.podbot {
     left: 0;
     border: solid 1px #28242c;
     border-top: 0;
-    background: url(//cssimg.ngfiles.com/bg-main/podbreaker-33.jpg) -1px 1px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-main/podbreaker-33.jpg) -1px 1px no-repeat
 }
 
 div.one3,
 div.thincol>div {
     float: left;
     width: 302px!important;
-    background-image: url(//cssimg.ngfiles.com/bg-main/pod-13.jpg)!important
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-main/pod-13.jpg)!important
 }
 
 div.one3 .podcontent,
 div.thincol>div>.podcontent {
-    background-image: url(//cssimg.ngfiles.com/bg-main/podbreaker-13.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-main/podbreaker-13.jpg)
 }
 
 div.two3,
@@ -2743,24 +2743,24 @@ div.fatcol>div,
 div.maincontent>div {
     float: right;
     width: 622px;
-    background-image: url(//cssimg.ngfiles.com/bg-main/pod-23.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-main/pod-23.jpg)
 }
 
 div.two3 .podcontent,
 div.fatcol>div>.podcontent,
 div.maincontent>div>.podcontent {
-    background-image: url(//cssimg.ngfiles.com/bg-main/podbreaker-23.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-main/podbreaker-23.jpg)
 }
 
 div.three3,
 div.maincontent-wide>div {
     width: 942px;
-    background-image: url(//cssimg.ngfiles.com/bg-main/pod-33.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-main/pod-33.jpg)
 }
 
 div.three3 .podcontent,
 div.maincontent-wide>div>.podcontent {
-    background-image: url(//cssimg.ngfiles.com/bg-main/podbreaker-33.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-main/podbreaker-33.jpg)
 }
 
 div.pop3 {
@@ -2852,7 +2852,7 @@ span.blog_img_delete {
     margin-top: 8px;
     margin-left: 8px;
     text-indent: -9999em;
-    background-image: url(//cssimg.ngfiles.com/icons/a-15yellows.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/a-15yellows.png);
     background-repeat: no-repeat;
     background-position: 0 -15px;
     width: 15px;
@@ -2882,15 +2882,15 @@ span.blog_img_delete:hover {
 
 #flash_pod.sumo {
     left: 50%;
-    background: url(//cssimg.ngfiles.com/bg-main/pod-33-sumo-left.jpg)
+    background: url(https://andreile.github.io/castlepuzzle/bg-main/pod-33-sumo-left.jpg)
 }
 
 #flash_pod.sumo #flash_embed_pod {
-    background: url(//cssimg.ngfiles.com/bg-main/pod-33-sumo-right.jpg) repeat-y top right
+    background: url(https://andreile.github.io/castlepuzzle/bg-main/pod-33-sumo-right.jpg) repeat-y top right
 }
 
 #flash_embed_podbot.podbot {
-    background: url(//cssimg.ngfiles.com/bg-main/podbreaker-33-sumo.jpg)
+    background: url(https://andreile.github.io/castlepuzzle/bg-main/podbreaker-33-sumo.jpg)
 }
 
 #flash_pod.sumo #flash_header.podtop:after {
@@ -2899,14 +2899,14 @@ span.blog_img_delete:hover {
     background: #f0f;
     width: 100%;
     content: "";
-    background: url(//cssimg.ngfiles.com/bg-main/podbreaker-33-sumo.jpg) center -6px no-repeat;
+    background: url(https://andreile.github.io/castlepuzzle/bg-main/podbreaker-33-sumo.jpg) center -6px no-repeat;
     position: absolute;
     top: 41px
 }
 
 #html5_maincontent.sumo #html5_podcontent {
     left: 50%;
-    background: url(//cssimg.ngfiles.com/bg-main/pod-33-sumo-left.jpg)
+    background: url(https://andreile.github.io/castlepuzzle/bg-main/pod-33-sumo-left.jpg)
 }
 
 #html5_podcontent {
@@ -2914,15 +2914,15 @@ span.blog_img_delete:hover {
 }
 
 #html5_maincontent.sumo #html5embed {
-    background: url(//cssimg.ngfiles.com/bg-main/pod-33-sumo-right.jpg) repeat-y top right
+    background: url(https://andreile.github.io/castlepuzzle/bg-main/pod-33-sumo-right.jpg) repeat-y top right
 }
 
 #html5_maincontent.sumo #html5_data_pod.podcontent {
-    background: url(//cssimg.ngfiles.com/bg-main/podbreaker-33-sumo.jpg) no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-main/podbreaker-33-sumo.jpg) no-repeat
 }
 
 #html5_maincontent.sumo div.podbot {
-    background: url(//cssimg.ngfiles.com/bg-main/podbreaker-33-sumo.jpg) no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-main/podbreaker-33-sumo.jpg) no-repeat
 }
 
 #html5_maincontent.sumo #html5_data_pod.podcontent:after {
@@ -2931,7 +2931,7 @@ span.blog_img_delete:hover {
     background: #f0f;
     width: 6px;
     content: "";
-    background: url(//cssimg.ngfiles.com/bg-main/pod-33-sumo-right.jpg);
+    background: url(https://andreile.github.io/castlepuzzle/bg-main/pod-33-sumo-right.jpg);
     position: absolute;
     right: 0;
     bottom: 7px
@@ -2943,23 +2943,23 @@ span.blog_img_delete:hover {
     background: #f0f;
     width: 100%;
     content: "";
-    background: url(//cssimg.ngfiles.com/bg-main/podbreaker-33-sumo.jpg) center -6px no-repeat;
+    background: url(https://andreile.github.io/castlepuzzle/bg-main/podbreaker-33-sumo.jpg) center -6px no-repeat;
     position: absolute;
     top: 41px
 }
 
 body.red #flash_pod.sumo #flash_header.podtop,
 body.red #html5_maincontent.sumo #html5_header.podtop {
-    background: url(//cssimg.ngfiles.com/bg-skins/podtops/podtop-red-sumo.jpg)
+    background: url(https://andreile.github.io/castlepuzzle/bg-skins/podtops/podtop-red-sumo.jpg)
 }
 
 body.blue #flash_pod.sumo #flash_header.podtop,
 body.blue #html5_maincontent.sumo #html5_header.podtop {
-    background: url(//cssimg.ngfiles.com/bg-skins/podtops/podtop-blue-sumo.jpg)
+    background: url(https://andreile.github.io/castlepuzzle/bg-skins/podtops/podtop-blue-sumo.jpg)
 }
 
 body.red #flash_pod.sumo #flash_header.podtop {
-    background: url(//cssimg.ngfiles.com/bg-skins/podtops/podtop-red-sumo.jpg)
+    background: url(https://andreile.github.io/castlepuzzle/bg-skins/podtops/podtop-red-sumo.jpg)
 }
 
 div.podtop div a {
@@ -2970,7 +2970,7 @@ div.podtop div a {
     padding: 0 10px;
     color: #1b1717;
     cursor: default;
-    background: url(//cssimg.ngfiles.com/misc/link_stripes2.png) -300px 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/misc/link_stripes2.png) -300px 0 no-repeat
 }
 
 div.podtop div a[href],
@@ -2982,7 +2982,7 @@ div.podtop div a.close {
 div.podtop div a[href]:hover {
     color: #1b1717;
     cursor: pointer;
-    background: url(//cssimg.ngfiles.com/misc/link_stripes2.png) -300px 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/misc/link_stripes2.png) -300px 0 no-repeat
 }
 
 div.podtop div a strong {
@@ -3005,7 +3005,7 @@ div.podtop div a[class]>span:first-child {
     width: 15px;
     text-indent: -9999em;
     overflow: hidden;
-    background-image: url(//cssimg.ngfiles.com/icons/a-15yellows.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/a-15yellows.png);
     background-repeat: no-repeat
 }
 
@@ -3022,7 +3022,7 @@ div.podtop span.hovertext {
     z-index: 9001;
     right: -5px;
     padding-left: 10px;
-    background: url(//cssimg.ngfiles.com/icons/hovers/hovertip.png) bottom left no-repeat!important
+    background: url(https://andreile.github.io/castlepuzzle/icons/hovers/hovertip.png) bottom left no-repeat!important
 }
 
 div.podtop span.hovertext span {
@@ -3032,7 +3032,7 @@ div.podtop span.hovertext span {
     margin-right: -2px;
     padding-right: 10px;
     white-space: nowrap;
-    background: url(//cssimg.ngfiles.com/icons/hovers/hovertip.png) bottom right no-repeat!important
+    background: url(https://andreile.github.io/castlepuzzle/icons/hovers/hovertip.png) bottom right no-repeat!important
 }
 
 div.podtop div form {
@@ -3040,7 +3040,7 @@ div.podtop div form {
     display: inline-block;
     margin: 8px 5px 0 10px;
     vertical-align: top;
-    background: url(//cssimg.ngfiles.com/misc/link_stripes2.png) 0 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/misc/link_stripes2.png) 0 0 no-repeat
 }
 
 div.podtop div form.fave {
@@ -3057,7 +3057,7 @@ div.podtop div.favorite-thread a {
     padding: 5px;
     position: relative;
     display: inline-block;
-    background: url("//cssimg.ngfiles.com/misc/link_stripes2.png") 0 0 no-repeat
+    background: url("https://andreile.github.io/castlepuzzle/misc/link_stripes2.png") 0 0 no-repeat
 }
 
 div.podtop div.favorite-thread a:hover {
@@ -3070,7 +3070,7 @@ div.podtop div.favorite-thread a span {
     height: 15px;
     padding: 0;
     margin: 0;
-    background: url("//cssimg.ngfiles.com/icons/a-15yellows-forum.png") -255px 0 no-repeat
+    background: url("https://andreile.github.io/castlepuzzle/icons/a-15yellows-forum.png") -255px 0 no-repeat
 }
 
 div.podtop div.favorite-thread:hover a span {
@@ -3097,7 +3097,7 @@ div.podtop div.favorite-thread-remove a span:first-child {
     margin: 0;
     padding: 0;
     display: inline-block;
-    background: url("//cssimg.ngfiles.com/icons/a-15yellows-forum.png") -240px 0 no-repeat
+    background: url("https://andreile.github.io/castlepuzzle/icons/a-15yellows-forum.png") -240px 0 no-repeat
 }
 
 div.podtop div.favorite-thread-remove a span.hovertext {
@@ -3122,7 +3122,7 @@ span.favefollow-buttons a.unfave span {
     left: 5px;
     text-indent: -9999em;
     overflow: hidden;
-    background-image: url(//cssimg.ngfiles.com/icons/a-15yellows.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/a-15yellows.png);
     background-repeat: no-repeat
 }
 
@@ -3159,7 +3159,7 @@ span.favefollow-buttons a.unfollow span {
     left: 5px;
     text-indent: -9999em;
     overflow: hidden;
-    background-image: url(//cssimg.ngfiles.com/icons/a-15yellows.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/a-15yellows.png);
     background-repeat: no-repeat
 }
 
@@ -3224,7 +3224,7 @@ div.podtop div button span {
     left: 5px;
     text-indent: -9999em;
     overflow: hidden;
-    background-image: url(//cssimg.ngfiles.com/icons/a-15yellows.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/a-15yellows.png);
     background-repeat: no-repeat
 }
 
@@ -3324,7 +3324,7 @@ div.rewards-nominees li button {
     margin-left: 5px;
     border: 0;
     text-overflow: hidden;
-    background: url(//cssimg.ngfiles.com/icons/a-15yellows.png) -420px 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/a-15yellows.png) -420px 0 no-repeat
 }
 
 div.rewards-nominees li:hover button {
@@ -3365,11 +3365,11 @@ div.tinyicon img {
 }
 
 div.iconarray>a:hover {
-    background: #4f280e url(//cssimg.ngfiles.com/icons/hovers/hoverticks-R.png) center center no-repeat
+    background: #4f280e url(https://andreile.github.io/castlepuzzle/icons/hovers/hoverticks-R.png) center center no-repeat
 }
 
 div.iconarray>a:hover img {
-    background: url(//cssimg.ngfiles.com/icons/hovers/hoverticks-L.png) center center no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/hovers/hoverticks-L.png) center center no-repeat
 }
 
 div.iconarray>a[href*="portal"]:hover {
@@ -3403,11 +3403,11 @@ a.art:hover {
 
 div.iconarray.art>a:hover>img,
 a.art:hover>img {
-    background-image: url(//cssimg.ngfiles.com/icons/hovers/TEMPORARYforarticons-90.png)!important
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/hovers/TEMPORARYforarticons-90.png)!important
 }
 
 .thincol div.iconarray.art>a:hover>img {
-    background-image: url(//cssimg.ngfiles.com/icons/hovers/TEMPORARYforarticons-60.png)!important
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/hovers/TEMPORARYforarticons-60.png)!important
 }
 
 div.iconarray.art h4.more a {
@@ -3443,7 +3443,7 @@ div.iconarray>a img+span {
     padding-top: 5px;
     color: #7d7575;
     text-align: center;
-    background: url(//cssimg.ngfiles.com/icons/a-portalicons.png) -18px top no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/a-portalicons.png) -18px top no-repeat
 }
 
 div.iconarray>a>span>strong {
@@ -3496,7 +3496,7 @@ div.iconarray>a>span>span+span {
     vertical-align: bottom;
     font-size: 10px;
     color: #c9bebe;
-    background: url(//cssimg.ngfiles.com/icons/a-portalicons.png) 112px 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/a-portalicons.png) 112px 0 no-repeat
 }
 
 div.iconarray>a.rated-t>span>span {
@@ -3519,7 +3519,7 @@ div.iconarray>a em span {
     margin-top: 3px;
     text-indent: -5810em;
     overflow: hidden;
-    background: url(//cssimg.ngfiles.com/icons/a-portalicons.png) -40px -52px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/a-portalicons.png) -40px -52px no-repeat
 }
 
 div.iconarray>a em span {
@@ -3605,7 +3605,7 @@ div.iconarray.generic>a:hover strong span {
     -webkit-border-bottom-right-radius: 7px;
     -khtml-border-radius-bottomright: 7px;
     background-color: #1b1717;
-    background-image: url(//cssimg.ngfiles.com/icons/hovers/rankandrate.png)
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/hovers/rankandrate.png)
 }
 
 ol.centeredblocks li span {
@@ -3706,11 +3706,11 @@ div.generic>a strong {
 
 .centeredblocks>li:hover {
     cursor: pointer;
-    background: #3d1d0d url(//cssimg.ngfiles.com/icons/hovers/hoverticks-R.png) -160px -20px no-repeat!important
+    background: #3d1d0d url(https://andreile.github.io/castlepuzzle/icons/hovers/hoverticks-R.png) -160px -20px no-repeat!important
 }
 
 .centeredblocks>li:hover>a {
-    background: url(//cssimg.ngfiles.com/icons/hovers/hoverticks-L.png) 582px -20px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/hovers/hoverticks-L.png) 582px -20px no-repeat
 }
 
 .thincol .centeredblocks>li:hover {
@@ -3834,7 +3834,7 @@ div.thincol .centeredblocks ul li+li {
     display: inline;
     margin-left: 3px;
     padding-left: 4px!important;
-    background: url(//cssimg.ngfiles.com/icons/tinyicons-vert.png) 0 -98px no-repeat!important
+    background: url(https://andreile.github.io/castlepuzzle/icons/tinyicons-vert.png) 0 -98px no-repeat!important
 }
 
 div.thincol .centeredblocks ul li:first-child {
@@ -3890,7 +3890,7 @@ div.fatcol .centeredblocks {
     float: left;
     text-indent: -9999em;
     overflow: hidden;
-    background: url(//cssimg.ngfiles.com/icons/tinyicons-vert.png) 0 -623px no-repeat;
+    background: url(https://andreile.github.io/castlepuzzle/icons/tinyicons-vert.png) 0 -623px no-repeat;
     width: 17px;
     height: 15px
 }
@@ -3937,7 +3937,7 @@ dl dd[title*="Suitable"] {
     font-size: 11px;
     line-height: 16px;
     font-weight: normal;
-    background-image: url(//cssimg.ngfiles.com/icons/hovers/rankandrate.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/hovers/rankandrate.png);
     background-repeat: no-repeat
 }
 
@@ -4134,7 +4134,7 @@ div.thincol .centeredblocks a+span {
     text-indent: -9999em;
     overflow: hidden;
     border: 0;
-    background-image: url(//cssimg.ngfiles.com/icons/a-15yellows.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/a-15yellows.png);
     background-repeat: no-repeat
 }
 
@@ -4272,7 +4272,7 @@ div.thincol .centeredblocks a+span {
 }
 
 .blocklist li[class] {
-    background-image: url(//cssimg.ngfiles.com/icons/ul-15grays.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/ul-15grays.png);
     background-repeat: no-repeat
 }
 
@@ -4310,7 +4310,7 @@ ol.blocklist li[class] a {
 }
 
 .blocklist li a {
-    background: url(//cssimg.ngfiles.com/icons/ul-rating.png) 280px 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/ul-rating.png) 280px 0 no-repeat
 }
 
 .blocklist li a[title*="Everyone"] {
@@ -4469,7 +4469,7 @@ hr+.pagenav {
     text-indent: -9999em;
     text-align: left;
     overflow: hidden;
-    background: url(//cssimg.ngfiles.com/icons/tinyicons-vert.png) 0 -592px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/tinyicons-vert.png) 0 -592px no-repeat
 }
 
 .three3 .pagenav div {
@@ -4536,7 +4536,7 @@ th.actions:after {
 }
 
 thead tr {
-    background: url(//cssimg.ngfiles.com/bg-main/podstripe.gif) left 22px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-main/podstripe.gif) left 22px no-repeat
 }
 
 thead th {
@@ -4718,7 +4718,7 @@ table[class$="list"] td:first-child>span,
 table[class$="list"] th:first-child>span {
     float: left;
     margin-left: 5px;
-    background: url(//cssimg.ngfiles.com/formstuff/input-checkboxes.jpg) 0 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/formstuff/input-checkboxes.jpg) 0 0 no-repeat
 }
 
 table[class$="list"] th:first-child>span {
@@ -4733,7 +4733,7 @@ table[class$="list"] th:first-child span label {
     padding-left: 20px;
     text-indent: -100em;
     overflow: hidden;
-    background: url(//cssimg.ngfiles.com/formstuff/input-tick.png) 0 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/formstuff/input-tick.png) 0 0 no-repeat
 }
 
 table[class$="list"] td:first-child>input:checked~span label,
@@ -4755,7 +4755,7 @@ table[class$="list"] td:last-child>span {
     border-color: #000;
     border-style: solid;
     border-width: 0 1px 2px 1px;
-    background: #4f280e url(//cssimg.ngfiles.com/misc/link_stripes2.png) 0 0 no-repeat
+    background: #4f280e url(https://andreile.github.io/castlepuzzle/misc/link_stripes2.png) 0 0 no-repeat
 }
 
 table[class$="list"] td:last-child>span>a,
@@ -4767,7 +4767,7 @@ table[class$="list"] td:last-child>span>button {
     text-indent: -150em;
     overflow: hidden;
     border: 0;
-    background-image: url(//cssimg.ngfiles.com/icons/a-15yellows.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/a-15yellows.png);
     background-repeat: no-repeat
 }
 
@@ -4776,7 +4776,7 @@ table.audiolist td {
 }
 
 table.audiolist td:first-child {
-    background: url(//cssimg.ngfiles.com/defaults/icon-audio-smallest.png) 5px 5px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/defaults/icon-audio-smallest.png) 5px 5px no-repeat
 }
 
 table.audiolist td:first-child>a {
@@ -4815,7 +4815,7 @@ table.forumlist td:first-child a {
     display: block;
     width: 25px;
     height: 25px;
-    background: url(//cssimg.ngfiles.com/icons/td-forum25.png) 0 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/td-forum25.png) 0 0 no-repeat
 }
 
 table.forumlist td:first-child a>span {
@@ -4824,7 +4824,7 @@ table.forumlist td:first-child a>span {
     z-index: 9001;
     left: 60px;
     padding-right: 8px;
-    background: url(//cssimg.ngfiles.com/icons/hovers/hovertip.png) bottom right no-repeat!important
+    background: url(https://andreile.github.io/castlepuzzle/icons/hovers/hovertip.png) bottom right no-repeat!important
 }
 
 table.forumlist td:first-child a>span>strong {
@@ -4837,7 +4837,7 @@ table.forumlist td:first-child a>span>strong {
     line-height: 25px;
     font-weight: normal;
     white-space: nowrap;
-    background: url(//cssimg.ngfiles.com/icons/hovers/hovertip.png) bottom left no-repeat!important
+    background: url(https://andreile.github.io/castlepuzzle/icons/hovers/hovertip.png) bottom left no-repeat!important
 }
 
 table.forumlist td:first-child a:hover>span {
@@ -4865,7 +4865,7 @@ table.forumlist td:first-child+td>span>a+span {
     line-height: 10px;
     color: #7d7575;
     font-weight: normal;
-    background: url(//cssimg.ngfiles.com/icons/tinyicons-vert.png) 5px 2px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/tinyicons-vert.png) 5px 2px no-repeat
 }
 
 table.forumlist td:first-child+td>span a {
@@ -4919,7 +4919,7 @@ table.pmlist td>strong {
     text-align: left;
     padding-left: 16px;
     margin-left: 40px;
-    background: url(//cssimg.ngfiles.com/icons/tinyicons-vert.png) 0 -149px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/tinyicons-vert.png) 0 -149px no-repeat
 }
 
 tr.pm-new td>strong {
@@ -4942,7 +4942,7 @@ table.pmlist td:first-child div {
     width: 25px;
     height: 30px;
     overflow: hidden;
-    background: url(//cssimg.ngfiles.com/icons/ul-pmflags.png) 5px 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/ul-pmflags.png) 5px 0 no-repeat
 }
 
 table.pmlist td:first-child div:hover {
@@ -4950,7 +4950,7 @@ table.pmlist td:first-child div:hover {
     left: 59px;
     width: 128px;
     overflow: visible;
-    background: url(//cssimg.ngfiles.com/icons/ul-pmflags.png) -25px 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/ul-pmflags.png) -25px 0 no-repeat
 }
 
 table.pmlist td:first-child input[type="radio"]+label {
@@ -4962,7 +4962,7 @@ table.pmlist td:first-child input[type="radio"]+label {
     padding: 0;
     text-indent: -1000em;
     overflow: hidden;
-    background-image: url(//cssimg.ngfiles.com/icons/ul-pmflags.png)
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/ul-pmflags.png)
 }
 
 table.pmlist td:first-child div:hover input[type="radio"]+label {
@@ -5062,7 +5062,7 @@ table.dumplist td:first-child+td+td {
 }
 
 table.dumplist td:first-child+td>span:first-child {
-    background-image: url(//cssimg.ngfiles.com/icons/td-dumpfiles.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/td-dumpfiles.png);
     background-repeat: no-repeat
 }
 
@@ -5074,7 +5074,7 @@ table.dumplist td:first-child+td>span>a+span {
     margin-top: 13px;
     text-indent: -50px;
     overflow: hidden;
-    background-image: url(//cssimg.ngfiles.com/icons/td-dumpfiles.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/td-dumpfiles.png);
     background-repeat: no-repeat
 }
 
@@ -5105,7 +5105,7 @@ div.advanced thead th span span.hovertext {
     right: -32px;
     top: 34px;
     padding-left: 10px;
-    background: url(//cssimg.ngfiles.com/icons/hovers/hovertip.png) bottom left no-repeat!important
+    background: url(https://andreile.github.io/castlepuzzle/icons/hovers/hovertip.png) bottom left no-repeat!important
 }
 
 div.advanced thead th span span.hovertext span {
@@ -5115,7 +5115,7 @@ div.advanced thead th span span.hovertext span {
     margin-right: -2px;
     padding-right: 10px;
     white-space: nowrap;
-    background: url(//cssimg.ngfiles.com/icons/hovers/hovertip.png) bottom right no-repeat!important
+    background: url(https://andreile.github.io/castlepuzzle/icons/hovers/hovertip.png) bottom right no-repeat!important
 }
 
 div.advanced thead th:hover span.hovertext {
@@ -5129,7 +5129,7 @@ div.advanced thead th span.hovertext {
 div.advanced thead th div {
     width: 32px;
     height: 40px;
-    background-image: url(//cssimg.ngfiles.com/icons/web-platform-icons.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/web-platform-icons.png);
     background-repeat: no-repeat
 }
 
@@ -5138,7 +5138,7 @@ div.advanced tbody td.checkboxes {
 }
 
 table.dumplist td:first-child+td>span:first-child {
-    background-image: url(//cssimg.ngfiles.com/icons/td-dumpfiles.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/td-dumpfiles.png);
     background-repeat: no-repeat
 }
 
@@ -5218,7 +5218,7 @@ table.index tr {
 }
 
 table.index tr+tr {
-    background: url("//cssimg.ngfiles.com/bg-main/podstripe.gif") left top no-repeat
+    background: url("https://andreile.github.io/castlepuzzle/bg-main/podstripe.gif") left top no-repeat
 }
 
 table.index tr:last-child td {
@@ -5247,7 +5247,7 @@ table.index td:first-child a {
     padding-left: 60px;
     padding-right: 10px;
     vertical-align: middle;
-    background-image: url("//cssimg.ngfiles.com/icons/td-forum45.png");
+    background-image: url("https://andreile.github.io/castlepuzzle/icons/td-forum45.png");
     background-repeat: no-repeat
 }
 
@@ -5312,7 +5312,7 @@ table.index a.podmove span.grab {
     width: 15px;
     display: block;
     overflow: hidden;
-    background: url("//cssimg.ngfiles.com/icons/a-15yellows-forum.png") -90px 0 no-repeat;
+    background: url("https://andreile.github.io/castlepuzzle/icons/a-15yellows-forum.png") -90px 0 no-repeat;
     text-indent: -9999em
 }
 
@@ -5325,7 +5325,7 @@ table.index span.hovertext {
     z-index: 9001;
     right: -5px;
     padding-left: 10px;
-    background: url("//cssimg.ngfiles.com/icons/hovers/hovertip.png") bottom left no-repeat!important
+    background: url("https://andreile.github.io/castlepuzzle/icons/hovers/hovertip.png") bottom left no-repeat!important
 }
 
 table.index span.hovertext span {
@@ -5335,7 +5335,7 @@ table.index span.hovertext span {
     margin-right: -2px;
     padding-right: 10px;
     white-space: nowrap;
-    background: url("//cssimg.ngfiles.com/icons/hovers/hovertip.png") bottom right no-repeat!important
+    background: url("https://andreile.github.io/castlepuzzle/icons/hovers/hovertip.png") bottom right no-repeat!important
 }
 
 table.index a.podmove:hover span.hovertext {
@@ -5360,7 +5360,7 @@ table.index span.checkbox {
     display: inline-block;
     top: -2px;
     left: -10px;
-    background: url(//cssimg.ngfiles.com/formstuff/input-checkboxes.jpg) 0 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/formstuff/input-checkboxes.jpg) 0 0 no-repeat
 }
 
 table.index span.checkbox>span {
@@ -5368,7 +5368,7 @@ table.index span.checkbox>span {
     float: left;
     height: 17px;
     padding-left: 20px;
-    background: url(//cssimg.ngfiles.com/formstuff/input-tick.png) 0 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/formstuff/input-tick.png) 0 0 no-repeat
 }
 
 table.index span.checkbox.checked>span {
@@ -5399,7 +5399,7 @@ tfoot tr:first-child td {
 }
 
 table.stats tfoot tr {
-    background: url(//cssimg.ngfiles.com/bg-main/podstripe.gif) left 10px no-repeat;
+    background: url(https://andreile.github.io/castlepuzzle/bg-main/podstripe.gif) left 10px no-repeat;
     background-color: inherit!important
 }
 
@@ -5430,7 +5430,7 @@ table ul.trophies li span {
     padding: 0 10px 15px 10px;
     text-align: left;
     line-height: 11px;
-    background: url(//cssimg.ngfiles.com/icons/hovers/hovertext.png) bottom right no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/hovers/hovertext.png) bottom right no-repeat
 }
 
 table ul.trophies li span em {
@@ -5441,7 +5441,7 @@ table ul.trophies li span em {
     font-size: 11px;
     font-weight: normal;
     color: #1b1717;
-    background: url(//cssimg.ngfiles.com/icons/hovers/hovertext.png) top left no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/hovers/hovertext.png) top left no-repeat
 }
 
 table ul.trophies li:hover span {
@@ -5467,7 +5467,7 @@ div.podtop div.bbsedit a.mod {
 div.podtop div.bbsedit a.close>span:first-child,
 div.podtop div.bbsedit a.mod>span:first-child,
 div.podtop div.bbsedit a.podmove>span:first-child {
-    background-image: url(//cssimg.ngfiles.com/icons/a-15yellows-forum.png)
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/a-15yellows-forum.png)
 }
 
 div.podtop div.bbsedit a.mod>span:first-child {
@@ -5492,11 +5492,11 @@ div.podtop div.bbsedit a:hover.mod>span:first-child {
     line-height: 2.1em;
     font-weight: bold;
     color: #eeb211;
-    background: #4f280e url(//cssimg.ngfiles.com/misc/link_stripes2.png) 0 0 no-repeat
+    background: #4f280e url(https://andreile.github.io/castlepuzzle/misc/link_stripes2.png) 0 0 no-repeat
 }
 
 .optionlinks>a.bbsedit {
-    background: url("//cssimg.ngfiles.com/icons/a-15yellows.png") top left no-repeat;
+    background: url("https://andreile.github.io/castlepuzzle/icons/a-15yellows.png") top left no-repeat;
     background-position: -330px 0;
     width: 15px;
     height: 15px;
@@ -5523,7 +5523,7 @@ span.optionlink {
     line-height: 2.1em;
     font-weight: bold;
     color: #eeb211;
-    background: #4f280e url(//cssimg.ngfiles.com/misc/link_stripes2.png) 0 0 no-repeat
+    background: #4f280e url(https://andreile.github.io/castlepuzzle/misc/link_stripes2.png) 0 0 no-repeat
 }
 
 
@@ -5569,7 +5569,7 @@ form.optionlinks input {
     line-height: 2.1em;
     font-weight: bold;
     color: #eeb211;
-    background: #4c1d36 url(//cssimg.ngfiles.com/misc/link_stripes2.png) 0 0 no-repeat
+    background: #4c1d36 url(https://andreile.github.io/castlepuzzle/misc/link_stripes2.png) 0 0 no-repeat
 }
 
 form.optionlinks input:hover {
@@ -5599,7 +5599,7 @@ ul.horzlinks li {
     padding: 1px 0 1px 12px;
     margin-top: 4px;
     vertical-align: middle;
-    background: url(//cssimg.ngfiles.com/icons/tinyicons-vert.png) 5px -200px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/tinyicons-vert.png) 5px -200px no-repeat
 }
 
 dl.sidestats dd:empty {
@@ -5829,7 +5829,7 @@ form.helpful fieldset label {
     top: 0;
     left: 0;
     text-indent: -9999em;
-    background: url(//cssimg.ngfiles.com/icons/ul-ratehelp.png) no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/ul-ratehelp.png) no-repeat
 }
 
 form.helpful fieldset input {
@@ -5903,7 +5903,7 @@ dl.sidestats *.star-variable {
 *[class|="star"] {
     width: 88px;
     height: 15px;
-    background: url(//cssimg.ngfiles.com/misc/vp-Stars.png) top left no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/misc/vp-Stars.png) top left no-repeat
 }
 
 *[class|="star"] span {
@@ -5911,7 +5911,7 @@ dl.sidestats *.star-variable {
     height: 15px;
     text-indent: -999em;
     overflow: hidden;
-    background: url(//cssimg.ngfiles.com/misc/vp-Stars.png) no-repeat;
+    background: url(https://andreile.github.io/castlepuzzle/misc/vp-Stars.png) no-repeat;
     background-position: 0 -15px
 }
 
@@ -5981,7 +5981,7 @@ span.star-10 span {
     color: #1b1717;
     text-indent: -1000em;
     overflow: hidden;
-    background: url(//cssimg.ngfiles.com/misc/vp-voteMessages.png) center 5px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/misc/vp-voteMessages.png) center 5px no-repeat
 }
 
 #votebar h3.voted {
@@ -6087,7 +6087,7 @@ span.star-10 span {
 form#votebar,
 form#votebar label,
 form#votebar label span {
-    background-image: url(//cssimg.ngfiles.com/misc/vp-votePico.png)
+    background-image: url(https://andreile.github.io/castlepuzzle/misc/vp-votePico.png)
 }
 
 .cc dl,
@@ -6110,7 +6110,7 @@ form#votebar label span {
 .creative-commons dl dd {
     min-height: 30px;
     margin-bottom: 5px;
-    background: url(//cssimg.ngfiles.com/icons/dl-creativecommons.png) left -2px no-repeat;
+    background: url(https://andreile.github.io/castlepuzzle/icons/dl-creativecommons.png) left -2px no-repeat;
     padding-left: 36px
 }
 
@@ -6194,7 +6194,7 @@ div[class*="gamesupport"]>div>span {
     padding: 0 10px 20px 10px;
     color: #34393e;
     line-height: 1.1em;
-    background: url(//cssimg.ngfiles.com/icons/hovers/hovertext.png) bottom right no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/hovers/hovertext.png) bottom right no-repeat
 }
 
 div[class*="gamesupport"]>div:hover>span {
@@ -6209,7 +6209,7 @@ div[class*="gamesupport"]>div>span>strong {
     color: #000;
     font-size: 1.2em;
     text-transform: capitalize;
-    background: url(//cssimg.ngfiles.com/icons/hovers/hovertext.png) top left no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/hovers/hovertext.png) top left no-repeat
 }
 
 div[class*="gamesupport"]>div>span>strong>a {
@@ -6218,7 +6218,7 @@ div[class*="gamesupport"]>div>span>strong>a {
     height: 12px;
     overflow: hidden;
     text-indent: -1515em;
-    background: url(//cssimg.ngfiles.com/icons/tinyicons-vert.png) 0 -400px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/tinyicons-vert.png) 0 -400px no-repeat
 }
 
 div[class*="gamesupport"]>div>span>em {
@@ -6270,7 +6270,7 @@ div.gamesupport-scores table {
 }
 
 div.gamesupport-scores table tr:first-child {
-    background: transparent url(//cssimg.ngfiles.com/bg-main/podstripe.gif) left 22px no-repeat!important
+    background: transparent url(https://andreile.github.io/castlepuzzle/bg-main/podstripe.gif) left 22px no-repeat!important
 }
 
 div.gamesupport-scores table td {
@@ -6299,7 +6299,7 @@ ul.trophies [class] {
     font-size: 1em;
     line-height: 1.2em;
     color: #7d7575;
-    background-image: url(//cssimg.ngfiles.com/icons/ul-trophies.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/ul-trophies.png);
     background-repeat: no-repeat
 }
 
@@ -6355,7 +6355,7 @@ ul.trophies strong {
     height: 15px;
     margin: 0 10px -5px 0;
     width: 15px;
-    background: url("//cssimg.ngfiles.com/icons/a-15yellows.png") no-repeat;
+    background: url("https://andreile.github.io/castlepuzzle/icons/a-15yellows.png") no-repeat;
     background-position: -465px 0
 }
 
@@ -6391,7 +6391,7 @@ ul.trophies strong {
     margin: 5px;
     text-indent: -2525em;
     overflow: hidden;
-    background: url(//cssimg.ngfiles.com/icons/a-sharelinks.jpg) top left no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/a-sharelinks.jpg) top left no-repeat
 }
 
 .followus {
@@ -6409,7 +6409,7 @@ ul.trophies strong {
     margin: 5px;
     text-indent: -2525em;
     overflow: hidden;
-    background: url(//cssimg.ngfiles.com/icons/a-followlinks.gif) top left no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/a-followlinks.gif) top left no-repeat
 }
 
 .relauthors>div {
@@ -6552,7 +6552,7 @@ dl.contentdata dt[class]~dd {
     font-size: 12px;
     line-height: 9px;
     font-weight: bold;
-    background: url(//cssimg.ngfiles.com/icons/tinyicons-vert.png) 5px -222px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/tinyicons-vert.png) 5px -222px no-repeat
 }
 
 dl.contentdata dt.tags~dd {
@@ -6644,7 +6644,7 @@ dl.messenger-set input[type="text"] {
 }
 
 .website-links li {
-    background: url(//cssimg.ngfiles.com/bg-main/podstripe.gif) no-repeat;
+    background: url(https://andreile.github.io/castlepuzzle/bg-main/podstripe.gif) no-repeat;
     color: #7d7575;
     margin-top: 8px;
     padding: 7px 0 0 0
@@ -6749,7 +6749,7 @@ ol.website-links {
 .blog-comment-blocked {
     padding: 20px;
     height: auto;
-    background: url("//cssimg.ngfiles.com/bg-main/podbreaker-23.jpg") no-repeat;
+    background: url("https://andreile.github.io/castlepuzzle/bg-main/podbreaker-23.jpg") no-repeat;
     text-align: center
 }
 
@@ -6853,7 +6853,7 @@ ol.website-links {
     font-style: italic;
     line-height: 2em;
     color: #6c6162;
-    background-image: url(//cssimg.ngfiles.com/icons/ul-15grays.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/ul-15grays.png);
     background-repeat: no-repeat
 }
 
@@ -6914,7 +6914,7 @@ dd[class*="level"] dt:first-child {
 
 dd[class|="level"] dt:first-child,
 dd[class|="level"]>div {
-    background: url(//cssimg.ngfiles.com/icons/stats/levelNUMS.png) top left no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/stats/levelNUMS.png) top left no-repeat
 }
 
 dl.communitystats dd[class*="level"] a.level-icon-edit {
@@ -6926,7 +6926,7 @@ dl.communitystats dd[class*="level"] a.level-icon-edit {
 }
 
 dl.communitystats dd[class*="level"] a.level-icon-edit span {
-    background: url(//cssimg.ngfiles.com/icons/tinyicons-vert.png) 4px -371px no-repeat;
+    background: url(https://andreile.github.io/castlepuzzle/icons/tinyicons-vert.png) 4px -371px no-repeat;
     text-indent: -9999em;
     width: 23px;
     height: 23px;
@@ -6940,12 +6940,12 @@ dl.communitystats dd[class*="level"]:hover a.level-icon-edit {
 
 dd[class|="rank"] dt:first-child,
 .thincol dd[class|="rank"]>div {
-    background: url(//cssimg.ngfiles.com/icons/stats/ranks.png) no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/stats/ranks.png) no-repeat
 }
 
 dd[class|="whistle"] dt:first-child,
 .thincol dd[class|="whistle"]>div {
-    background: url(//cssimg.ngfiles.com/icons/stats/whistles.png) no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/stats/whistles.png) no-repeat
 }
 
 dd[class*="level"] dt:first-child a {
@@ -6979,7 +6979,7 @@ dl.communitystats>dd dd>a:not(.level-icon-edit),
 .prodinfo dd a,
 a.faq,
 .thincol dl.communitystats>dd>a:not(.level-icon-edit) {
-    background: url(//cssimg.ngfiles.com/icons/tinyicons-vert.png) 0 -75px no-repeat;
+    background: url(https://andreile.github.io/castlepuzzle/icons/tinyicons-vert.png) 0 -75px no-repeat;
     width: 10px;
     height: 9px;
     position: absolute;
@@ -7005,7 +7005,7 @@ dl.communitystats dd>div span {
     padding: 0 10px 15px 10px;
     text-align: left;
     line-height: 11px;
-    background: url(//cssimg.ngfiles.com/icons/hovers/hovertext.png) bottom right no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/hovers/hovertext.png) bottom right no-repeat
 }
 
 dl.communitystats dd>a>span em,
@@ -7020,7 +7020,7 @@ dl.communitystats dd>div em {
     font-weight: normal;
     line-height: 11px;
     color: #1b1717;
-    background: url(//cssimg.ngfiles.com/icons/hovers/hovertext.png) top left no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/hovers/hovertext.png) top left no-repeat
 }
 
 dl.communitystats dd>a:hover span,
@@ -7031,7 +7031,7 @@ dl.communitystats dd>div:hover span {
 }
 
 dd[class|="level"] {
-    background: url(//cssimg.ngfiles.com/icons/stats/levelBGs_n.png) no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/stats/levelBGs_n.png) no-repeat
 }
 
 dl.communitystats dd[class|="level"] dt:first-child+dd {
@@ -7144,7 +7144,7 @@ ul.choose-level-icon li {
     height: 64px;
     margin: 1px;
     float: left;
-    background: url("//cssimg.ngfiles.com/icons/hovers/choose-level-icon-bg2.png") no-repeat;
+    background: url("https://andreile.github.io/castlepuzzle/icons/hovers/choose-level-icon-bg2.png") no-repeat;
     background-position: -200px 0;
     display: block
 }
@@ -7322,7 +7322,7 @@ ol[class*="faves"] li button,
     height: 15px;
     text-indent: -1500em;
     text-overflow: hidden;
-    background: url(//cssimg.ngfiles.com/icons/a-15yellows.png) -420px 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/a-15yellows.png) -420px 0 no-repeat
 }
 
 ol[class*="faves"] li button {
@@ -7359,7 +7359,7 @@ dl.userlist dt {
     padding: 5px 5px 7px 5px;
     color: #7d7575;
     text-align: left;
-    background: url(//cssimg.ngfiles.com/bg-main/podstripe.gif) left bottom no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/bg-main/podstripe.gif) left bottom no-repeat
 }
 
 dl.userlist em {
@@ -7409,7 +7409,7 @@ div.bbskey div {
     width: 200px;
     height: 55px;
     padding-left: 60px;
-    background: url(//cssimg.ngfiles.com/icons/td-forum45.png) 0 -60px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/td-forum45.png) 0 -60px no-repeat
 }
 
 div.bbskey div+div {
@@ -7477,7 +7477,7 @@ div.podtop>div>ul>li {
     float: left;
     margin-left: 5px;
     padding-left: 8px;
-    background: url(//cssimg.ngfiles.com/icons/tinyicons-vert.png) left -445px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/tinyicons-vert.png) left -445px no-repeat
 }
 
 div.podtop>div>ul>li:first-child {
@@ -7492,7 +7492,7 @@ div.sitenote {
     padding: 0 10px 15px 10px;
     text-align: left;
     line-height: 11px;
-    background: url(//cssimg.ngfiles.com/icons/hovers/hovertext.png) bottom right no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/hovers/hovertext.png) bottom right no-repeat
 }
 
 div.sitenote>em {
@@ -7503,7 +7503,7 @@ div.sitenote>em {
     font-size: 11px;
     font-weight: normal;
     color: #1b1717;
-    background: url(//cssimg.ngfiles.com/icons/hovers/hovertext.png) top left no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/hovers/hovertext.png) top left no-repeat
 }
 
 div.sitenote strong {
@@ -7656,7 +7656,7 @@ div.post-bbs>div:first-child {
     bottom: 6px;
     width: 185px;
     padding: 10px 0 10px 10px;
-    background: url(//cssimg.ngfiles.com/misc/bbs-postStar.png) 5px 5px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/misc/bbs-postStar.png) 5px 5px no-repeat
 }
 
 div.post-bbs>div:first-child>span:first-child {
@@ -7665,7 +7665,7 @@ div.post-bbs>div:first-child>span:first-child {
     top: 230px;
     bottom: 5px;
     width: 186px;
-    background: url(//cssimg.ngfiles.com/misc/bbs-postStar_mid.png) right top repeat-y
+    background: url(https://andreile.github.io/castlepuzzle/misc/bbs-postStar_mid.png) right top repeat-y
 }
 
 div.post-bbs>div:first-child>span:first-child>span {
@@ -7674,7 +7674,7 @@ div.post-bbs>div:first-child>span:first-child>span {
     top: auto;
     height: 15px;
     width: 100%;
-    background: url(//cssimg.ngfiles.com/misc/bbs-postStar_bot.gif) right bottom no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/misc/bbs-postStar_bot.gif) right bottom no-repeat
 }
 
 div.bbstext {
@@ -7787,7 +7787,7 @@ div.post-bbs dd dl dt+dd {
 li[class|="online"] {
     display: block;
     padding-left: 17px!important;
-    background: url(//cssimg.ngfiles.com/icons/tinyicons-vert.png) 0 -21px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/tinyicons-vert.png) 0 -21px no-repeat
 }
 
 li.online-yes {
@@ -7843,15 +7843,15 @@ div.post-bbs.supporter a.supporter {
 }
 
 div.post-bbs.supporter>div:first-child {
-    background: url(//cssimg.ngfiles.com/misc/bbs-postStarSupporter.png) 5px 5px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/misc/bbs-postStarSupporter.png) 5px 5px no-repeat
 }
 
 div.post-bbs.supporter>div:first-child>span:first-child {
-    background: url(//cssimg.ngfiles.com/misc/bbs-postStarSupporter_mid.png) right top repeat-y
+    background: url(https://andreile.github.io/castlepuzzle/misc/bbs-postStarSupporter_mid.png) right top repeat-y
 }
 
 div.post-bbs.supporter>div:first-child>span:first-child>span {
-    background: url(//cssimg.ngfiles.com/misc/bbs-postStarSupporter_bot.gif) right bottom no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/misc/bbs-postStarSupporter_bot.gif) right bottom no-repeat
 }
 
 .pm-miniform {
@@ -7903,7 +7903,7 @@ ul.uotd {
     font-size: 13px;
     line-height: 15px;
     text-align: center;
-    background: url(//cssimg.ngfiles.com/misc/portal-eulogy.jpg) top left no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/misc/portal-eulogy.jpg) top left no-repeat
 }
 
 #deadswf {
@@ -7974,7 +7974,7 @@ ul.uotd {
     height: 25px;
     margin: 5px 15px 5px 5px;
     padding-left: 28px;
-    background: url(//cssimg.ngfiles.com/icons/td-dumpfiles.png) -20px -50px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/td-dumpfiles.png) -20px -50px no-repeat
 }
 
 .quickkey dt {
@@ -8035,7 +8035,7 @@ dl.space {
     line-height: 11px;
     color: #fff;
     overflow: hidden;
-    background: url(//cssimg.ngfiles.com/misc/link_stripes2.png) 0 0 repeat-x
+    background: url(https://andreile.github.io/castlepuzzle/misc/link_stripes2.png) 0 0 repeat-x
 }
 
 dl.space:hover {
@@ -8047,7 +8047,7 @@ dl.space dt {
     height: 15px;
     margin: 5px;
     line-height: 0;
-    background: url(//cssimg.ngfiles.com/misc/statusBar.png) 0 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/misc/statusBar.png) 0 0 no-repeat
 }
 
 dl.space dt+dd {
@@ -8057,7 +8057,7 @@ dl.space dt+dd {
     height: 15px;
     text-indent: -200em;
     overflow: hidden;
-    background: url(//cssimg.ngfiles.com/misc/statusBar.png) 0 -15px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/misc/statusBar.png) 0 -15px no-repeat
 }
 
 dl.space dd+dd {
@@ -8115,7 +8115,7 @@ ul.browse ul li[class] {
 }
 
 ul.browse li[class] {
-    background: #4f280e url(//cssimg.ngfiles.com/misc/link_stripes2.png) left top repeat-y
+    background: #4f280e url(https://andreile.github.io/castlepuzzle/misc/link_stripes2.png) left top repeat-y
 }
 
 ul.browse li.expanded {
@@ -8155,7 +8155,7 @@ ul.browse a+a {
     overflow: hidden;
     text-indent: -300em;
     border: 0;
-    background: url(//cssimg.ngfiles.com/icons/ul-browse.png) 0 top no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/ul-browse.png) 0 top no-repeat
 }
 
 ul.browse li.collapsed a+a {
@@ -8188,7 +8188,7 @@ div[class|="browse"] a {
     line-height: 2.1em;
     color: #eeb211;
     cursor: default;
-    background: #9d4f18 url(//cssimg.ngfiles.com/misc/link_stripes2.png) left top repeat-y
+    background: #9d4f18 url(https://andreile.github.io/castlepuzzle/misc/link_stripes2.png) left top repeat-y
 }
 
 div[class|="browse"] a[href] {
@@ -8250,11 +8250,11 @@ div[class|="browse"] a[class] span {
 }
 
 div.browse-wiki a span {
-    background-image: url(//cssimg.ngfiles.com/icons/a-wiki.png)
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/a-wiki.png)
 }
 
 div.browse-projects a span {
-    background-image: url(//cssimg.ngfiles.com/icons/a-projects.png)
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/a-projects.png)
 }
 
 div.browse-projects a {
@@ -8292,7 +8292,7 @@ div.browse-projects+ul.browse>li>a>span {
     left: 5px;
     height: 30px;
     width: 30px;
-    background: url(//cssimg.ngfiles.com/icons/a-projects.png) 0 -105px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/a-projects.png) 0 -105px no-repeat
 }
 
 div.browse-projects+ul.browse>li:hover>a>span {
@@ -8452,7 +8452,7 @@ div.downloads>div>ul li+li {
     width: 100px;
     height: 25px;
     cursor: pointer;
-    background: url(//cssimg.ngfiles.com/icons/ul-ratingFilter.jpg) 0 -50px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/ul-ratingFilter.jpg) 0 -50px no-repeat
 }
 
 .rating ul li+li label {
@@ -8496,7 +8496,7 @@ div.downloads>div>ul li+li {
     float: left;
     padding-right: 20px;
     font-weight: bold;
-    background: url(//cssimg.ngfiles.com/icons/tinyicons-vert.png) right -253px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/tinyicons-vert.png) right -253px no-repeat
 }
 
 .simple-dl dd {
@@ -8535,7 +8535,7 @@ ul.checklist>li>strong {
     height: 15px;
     text-indent: -2500em;
     overflow: hidden;
-    background: url(//cssimg.ngfiles.com/icons/tinyicons-vert.png) left -25px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/tinyicons-vert.png) left -25px no-repeat
 }
 
 ul.checklist>li.complete>strong {
@@ -8550,7 +8550,7 @@ ul.checklist>li.complete>strong {
     width: 660px;
     right: 1px;
     top: -10px;
-    background: url(//cssimg.ngfiles.com/flash/portal_banner/bg.png) top left no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/flash/portal_banner/bg.png) top left no-repeat
 }
 
 div#portalbanner~div.fatcol {
@@ -8571,7 +8571,7 @@ div#portalbanner~div.fatcol {
     line-height: 21px;
     font-style: italic;
     font-weight: bold;
-    background: url(//cssimg.ngfiles.com/icons/tinyicons-vert.png) 5px -295px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/tinyicons-vert.png) 5px -295px no-repeat
 }
 
 #portallegend dd~dd {
@@ -8589,7 +8589,7 @@ div#portalbanner~div.fatcol {
 #portallegend ul li {
     width: 110px;
     padding-left: 25px;
-    background: url(//cssimg.ngfiles.com/icons/ul-15grays.png) 3px -2px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/ul-15grays.png) 3px -2px no-repeat
 }
 
 #portallegend ul li+li {
@@ -8748,7 +8748,7 @@ ul.storepurchases>li {
     display: block;
     min-height: 65px;
     padding: 5px 5px 0 70px;
-    background: url(//cssimg.ngfiles.com/misc/store-hiddenholycrap.gif) 5px 80px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/misc/store-hiddenholycrap.gif) 5px 80px no-repeat
 }
 
 ul.storepurchases>li>a:first-child {
@@ -8902,7 +8902,7 @@ form.addtocart fieldset label {
     line-height: 26px;
     font-weight: bold;
     color: #eeb211;
-    background: #34393e url(//cssimg.ngfiles.com/misc/link_stripes2.png) 0 0 no-repeat
+    background: #34393e url(https://andreile.github.io/castlepuzzle/misc/link_stripes2.png) 0 0 no-repeat
 }
 
 form.addtocart fieldset label:hover {
@@ -9036,7 +9036,7 @@ div.storecartupdates span {
     position: relative;
     float: left;
     margin-left: 5px;
-    background: #34393e url(//cssimg.ngfiles.com/misc/link_stripes2.png) 0 0 no-repeat
+    background: #34393e url(https://andreile.github.io/castlepuzzle/misc/link_stripes2.png) 0 0 no-repeat
 }
 
 div.storecartupdates span>input {
@@ -9059,7 +9059,7 @@ div.storecartupdates span+span input {
     margin: 5px;
     text-indent: -150em;
     overflow: hidden;
-    background: url(//cssimg.ngfiles.com/icons/a-15yellows.png) -75px 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/a-15yellows.png) -75px 0 no-repeat
 }
 
 div.storecartupdates span+span:hover input {
@@ -9217,7 +9217,7 @@ ul.calendar li li {
     margin: 1px;
     padding: 5px;
     color: #9d4f18;
-    background: url(//cssimg.ngfiles.com/misc/ul-calendar.png) 0 -25px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/misc/ul-calendar.png) 0 -25px no-repeat
 }
 
 ul.calendar li.currentmonth li {
@@ -9250,7 +9250,7 @@ ul.calendar li>span>span {
     line-height: 2.2em;
     font-weight: bold;
     color: #9f4f18;
-    background: url(//cssimg.ngfiles.com/misc/ul-calendar.png) top left no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/misc/ul-calendar.png) top left no-repeat
 }
 
 ul.calendar li>span>strong {
@@ -9410,7 +9410,7 @@ ul.calendarlist.social li {
     font-weight: normal;
     letter-spacing: -1px;
     color: #eeb211;
-    background: url(//cssimg.ngfiles.com/icons/a-wiki.png) 0 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/a-wiki.png) 0 0 no-repeat
 }
 
 .wikimain div h4 a:hover {
@@ -9461,7 +9461,7 @@ ul.calendarlist.social li {
     letter-spacing: -1px;
     font-size: 1em;
     color: #eeb211;
-    background: url(//cssimg.ngfiles.com/icons/a-account.png) 0 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/a-account.png) 0 0 no-repeat
 }
 
 .accountindex div h4 a:hover {
@@ -9527,7 +9527,7 @@ ul.account_block_list li a.delete {
     display: inline-block;
     width: 15px;
     height: 15px;
-    background: url("//cssimg.ngfiles.com/icons/a-15yellows.png") no-repeat
+    background: url("https://andreile.github.io/castlepuzzle/icons/a-15yellows.png") no-repeat
 }
 
 ul.account_block_list li a.edit {
@@ -9617,7 +9617,7 @@ ul.account_block_list li:hover a.delete:hover {
     font-size: 12px;
     font-style: italic;
     line-height: 2em;
-    background-image: url(//cssimg.ngfiles.com/icons/ul-15grays.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/icons/ul-15grays.png);
     background-repeat: no-repeat
 }
 
@@ -9826,11 +9826,11 @@ span.loadingicons span {
     z-index: 252;
     width: 100%;
     height: 100%;
-    background: url(//cssimg.ngfiles.com/icons/in-progress/i80.png) center center no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/in-progress/i80.png) center center no-repeat
 }
 
 span.loadingicons span span {
-    background: url(//cssimg.ngfiles.com/icons/in-progress/i80.gif) center center no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/in-progress/i80.gif) center center no-repeat
 }
 
 span.loadingicons span+span {
@@ -9845,7 +9845,7 @@ span.loadingicons span+span {
 
 .waithere,
 form .waiter_on {
-    background: url(//cssimg.ngfiles.com/icons/in-progress/i25.gif) 0 0 no-repeat;
+    background: url(https://andreile.github.io/castlepuzzle/icons/in-progress/i25.gif) 0 0 no-repeat;
     width: 25px;
     height: 25px;
     overflow: hidden
@@ -9859,7 +9859,7 @@ div.waiting button+span {
     height: 25px;
     text-indent: -3200px;
     overflow: hidden;
-    background: url(//cssimg.ngfiles.com/icons/in-progress/i25.gif) 0 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/in-progress/i25.gif) 0 0 no-repeat
 }
 
 div.waiting button:first-child+span {
@@ -9867,7 +9867,7 @@ div.waiting button:first-child+span {
 }
 
 tr.waiting td:first-child+td>span:first-child {
-    background: url(//cssimg.ngfiles.com/icons/in-progress/i25.gif) 0 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/in-progress/i25.gif) 0 0 no-repeat
 }
 
 tr.waiting td:first-child+td>span:first-child>span {
@@ -9884,7 +9884,7 @@ div.bbstext>a {
     text-indent: -197em;
     overflow: hidden;
     border: solid 1px #eeb211;
-    background: #1b1717 url(//cssimg.ngfiles.com/icons/tinyicons-vert_r2.png) 4px -371px no-repeat
+    background: #1b1717 url(https://andreile.github.io/castlepuzzle/icons/tinyicons-vert_r2.png) 4px -371px no-repeat
 }
 
 .userstats .podcontent:hover>a,
@@ -10038,7 +10038,7 @@ table.ban_history tr:nth-child(even) {
 .fatcol.banlist .podtop a[rel^="toggle"],
 .fatcol.banlist .podtop a[rel^="clear"],
 .fatcol.ban_history .podtop a[rel^="clear"] {
-    background: url(//cssimg.ngfiles.com/icons/a-15yellows.png);
+    background: url(https://andreile.github.io/castlepuzzle/icons/a-15yellows.png);
     height: 15px;
     width: 15px;
     display: block;
@@ -10174,7 +10174,7 @@ table.ban_history tr:nth-child(even) {
 }
 
 .playlist {
-    background: url(//cssimg.ngfiles.com/bg-main/podstripe.gif) no-repeat;
+    background: url(https://andreile.github.io/castlepuzzle/bg-main/podstripe.gif) no-repeat;
     padding-top: 3px
 }
 
@@ -10185,7 +10185,7 @@ table.ban_history tr:nth-child(even) {
     padding-left: 32px;
     padding-top: 5px;
     position: relative;
-    background: url(//cssimg.ngfiles.com/icons/ul-15grays.png) no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/ul-15grays.png) no-repeat
 }
 
 .playlist li:hover {
@@ -10198,7 +10198,7 @@ table.ban_history tr:nth-child(even) {
 }
 
 .playlist li button {
-    background: url(//cssimg.ngfiles.com/icons/a-15yellows.png) no-repeat scroll -420px 0 transparent;
+    background: url(https://andreile.github.io/castlepuzzle/icons/a-15yellows.png) no-repeat scroll -420px 0 transparent;
     border: 0 none;
     height: 15px;
     margin-left: 5px;
@@ -10263,7 +10263,7 @@ ul.my-playlists li:hover {
 #playlist_list_pod .playlist-controls ul li a {
     height: 25px;
     width: 36px;
-    background: url(//cssimg.ngfiles.com/misc/playlist_arrows.gif) no-repeat;
+    background: url(https://andreile.github.io/castlepuzzle/misc/playlist_arrows.gif) no-repeat;
     display: block;
     text-indent: -99999px;
     margin-right: 8px
@@ -10319,7 +10319,7 @@ ul.latest-playlists li:nth-child(even) {
 }
 
 ul.latest-playlists li span {
-    background: url(//cssimg.ngfiles.com/icons/a-15yellows.png) no-repeat -600px 0;
+    background: url(https://andreile.github.io/castlepuzzle/icons/a-15yellows.png) no-repeat -600px 0;
     display: inline-block;
     height: 16px;
     width: 16px;
@@ -10375,7 +10375,7 @@ ul.all-playlists li:nth-child(even) {
 }
 
 ul.all-playlists li span {
-    background: url(//cssimg.ngfiles.com/icons/a-15yellows.png) no-repeat -600px 0;
+    background: url(https://andreile.github.io/castlepuzzle/icons/a-15yellows.png) no-repeat -600px 0;
     display: inline-block;
     height: 16px;
     width: 16px;
@@ -10455,7 +10455,7 @@ form#collab_form button {
 }
 
 form#collab_form button.delete {
-    background-image: url("//cssimg.ngfiles.com/bg-skins/buttons/button-red.gif");
+    background-image: url("https://andreile.github.io/castlepuzzle/bg-skins/buttons/button-red.gif");
     border-bottom: 2px solid #000;
     border-color: #000;
     border-left: 1px solid #000;
@@ -10501,7 +10501,7 @@ div.podcontent.collab_list span+span {
 
 div.podcontent.collab_list span a.message {
     background-position: -465px 0;
-    background-image: url("//cssimg.ngfiles.com/icons/a-15yellows.png");
+    background-image: url("https://andreile.github.io/castlepuzzle/icons/a-15yellows.png");
     height: 15px;
     width: 15px;
     text-indent: -99999px;
@@ -10523,7 +10523,7 @@ div.collab_list.podcontent div p {
 }
 
 div.podcontent.collab_list span a.delete {
-    background: url("//cssimg.ngfiles.com/icons/a-15yellows.png") no-repeat scroll -420px 0 transparent;
+    background: url("https://andreile.github.io/castlepuzzle/icons/a-15yellows.png") no-repeat scroll -420px 0 transparent;
     border: 0 none;
     height: 15px;
     position: absolute;
@@ -10548,7 +10548,7 @@ div.podcontent.collab_list div.reveal {
 }
 
 div.podcontent.collab_list span.reveal {
-    background: url("//cssimg.ngfiles.com/misc/collab-reveal.png");
+    background: url("https://andreile.github.io/castlepuzzle/misc/collab-reveal.png");
     display: block;
     font-size: 12px;
     height: 14px;
@@ -10560,7 +10560,7 @@ div.podcontent.collab_list span.reveal {
 }
 
 .streaming-button {
-    background: url("//cssimg.ngfiles.com/misc/streaming-button.gif") no-repeat;
+    background: url("https://andreile.github.io/castlepuzzle/misc/streaming-button.gif") no-repeat;
     height: 25px;
     width: 154px;
     top: 67px;
@@ -10774,14 +10774,14 @@ form.rating li.unregistered_a {
 form.rating li.unregistered_a a {
     display: inline-block;
     background-color: red;
-    background: url(//cssimg.ngfiles.com/icons/ul-ratingFilter.jpg) -75px -50px no-repeat;
+    background: url(https://andreile.github.io/castlepuzzle/icons/ul-ratingFilter.jpg) -75px -50px no-repeat;
     width: 25px;
     height: 25px;
     text-indent: -250em
 }
 
 form.rating li.unregistered_a a:hover {
-    background: url(//cssimg.ngfiles.com/icons/ul-ratingFilter.jpg) -75px -75px no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/ul-ratingFilter.jpg) -75px -75px no-repeat
 }
 
 span[class^="flag-"],
@@ -10813,7 +10813,7 @@ li[class^="flag-"] label {
     vertical-align: middle;
     display: inline-block;
     padding-left: 42px;
-    background-image: url(//cssimg.ngfiles.com/formstuff/flaggingicons-bg.png);
+    background-image: url(https://andreile.github.io/castlepuzzle/formstuff/flaggingicons-bg.png);
     background-repeat: no-repeat;
     background-size: 37px 74px;
     background-position: 999px;
@@ -11051,7 +11051,7 @@ h3 a:visited {
     font-style: italic;
     font-weight: bold;
     display: block;
-    background: transparent url(http://cssimg.ngfiles.com/bg-main/podstripe.gif) center bottom no-repeat!important
+    background: transparent url(http:https://andreile.github.io/castlepuzzle/bg-main/podstripe.gif) center bottom no-repeat!important
 }
 
 h4 {
@@ -11102,7 +11102,7 @@ div.podtop>h2 {
     font-size-adjust: .4;
     line-height: 1.1em;
     font-weight: normal;
-    background-image: url(http://cssimg.ngfiles.com/icons/h2-all.png);
+    background-image: url(http:https://andreile.github.io/castlepuzzle/icons/h2-all.png);
     background-repeat: no-repeat
 }
 
@@ -11148,7 +11148,7 @@ div.podcontent>p>a:active {
 .bbstext p a[id*="exlink"] {
     margin-right: 3px;
     padding-right: 15px;
-    background: url(http://cssimg.ngfiles.com/icons/tinyicons-vert.png) right -325px no-repeat
+    background: url(http:https://andreile.github.io/castlepuzzle/icons/tinyicons-vert.png) right -325px no-repeat
 }
 
 div.podcontent>p>a[href*="newgrounds.com"],
@@ -11227,7 +11227,7 @@ hr {
     margin: 5px 0;
     border-left: solid 1px #211b1b;
     border-right: solid 1px #211b1b;
-    background: #000 url(http://cssimg.ngfiles.com/bg-main/podstripe.gif) -1px bottom repeat-x
+    background: #000 url(http:https://andreile.github.io/castlepuzzle/bg-main/podstripe.gif) -1px bottom repeat-x
 }
 
 .thincol hr {
@@ -11497,7 +11497,7 @@ div.wikitext .podcontent h4 {
     font-size: 14px;
     color: #fff;
     font-style: italic;
-    background: url(http://cssimg.ngfiles.com/bg-main/podstripe.gif) left bottom no-repeat
+    background: url(http:https://andreile.github.io/castlepuzzle/bg-main/podstripe.gif) left bottom no-repeat
 }
 
 div.wikitext .podcontent h4,
@@ -11540,7 +11540,7 @@ div.wikitext>.podcontent>ul {
 
 div.wikitext>.podcontent>ul li {
     padding-left: 10px;
-    background: url(http://cssimg.ngfiles.com/icons/tinyicons-vert.png) left -719px no-repeat
+    background: url(http:https://andreile.github.io/castlepuzzle/icons/tinyicons-vert.png) left -719px no-repeat
 }
 
 div.wikitext>.podcontent>h2+ul {
@@ -11804,27 +11804,27 @@ body.aqua form#votebar h3 {
 }
 
 body.frontpage {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/fp-body.gif)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/fp-body.gif)
 }
 
 body.frontpage #outer {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/fp-outer.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/fp-outer.jpg)
 }
 
 body.blue {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/blue2-body.gif)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/blue2-body.gif)
 }
 
 body.blue #outer {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/blue2-outer.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/blue2-outer.jpg)
 }
 
 body.blue div.podtop {
-    background: #173249 url(//cssimg.ngfiles.com/bg-skins/podtops/podtop-blue.jpg) top left no-repeat
+    background: #173249 url(https://andreile.github.io/castlepuzzle/bg-skins/podtops/podtop-blue.jpg) top left no-repeat
 }
 
 body.blue #footer .siteinfo {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/blue-footer.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/blue-footer.jpg)
 }
 
 body.blue input[type="text"],
@@ -11832,18 +11832,18 @@ body.blue input[type="password"],
 body.blue div.select,
 body.blue select {
     background-color: #75bbec;
-    background-image: url(//cssimg.ngfiles.com/bg-skins/inputs/input-blue.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/inputs/input-blue.jpg)
 }
 
 body.blue textarea {
     background-color: #6fb8ec;
-    background-image: url(//cssimg.ngfiles.com/bg-skins/textareas/textarea-blue.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/textareas/textarea-blue.jpg)
 }
 
 body.blue a.fakebutton,
 body.blue button,
 body.blue div.upload div {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/buttons/button-blue.gif)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/buttons/button-blue.gif)
 }
 
 body.blue .quicklinks>a,
@@ -12000,19 +12000,19 @@ body.blue pre {
 }
 
 body.red {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/red2-body.gif)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/red2-body.gif)
 }
 
 body.red #outer {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/red2-outer.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/red2-outer.jpg)
 }
 
 body.red div.podtop {
-    background: #521b1b url(//cssimg.ngfiles.com/bg-skins/podtops/podtop-red.jpg) top left no-repeat
+    background: #521b1b url(https://andreile.github.io/castlepuzzle/bg-skins/podtops/podtop-red.jpg) top left no-repeat
 }
 
 body.red #footer .siteinfo {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/red-footer.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/red-footer.jpg)
 }
 
 body.red input[type="text"],
@@ -12020,18 +12020,18 @@ body.red input[type="password"],
 body.red div.select,
 body.red select {
     background-color: #fa7070;
-    background-image: url(//cssimg.ngfiles.com/bg-skins/inputs/input-red.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/inputs/input-red.jpg)
 }
 
 body.red textarea {
     background-color: #fa6e6e;
-    background-image: url(//cssimg.ngfiles.com/bg-skins/textareas/textarea-red.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/textareas/textarea-red.jpg)
 }
 
 body.red a.fakebutton,
 body.red button,
 body.red div.upload div {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/buttons/button-red.gif)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/buttons/button-red.gif)
 }
 
 body.red .quicklinks>a,
@@ -12184,19 +12184,19 @@ body.red pre {
 }
 
 body.green {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/green2-body.gif)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/green2-body.gif)
 }
 
 body.green #outer {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/green2-outer.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/green2-outer.jpg)
 }
 
 body.green div.podtop {
-    background: #213915 url(//cssimg.ngfiles.com/bg-skins/podtops/podtop-green.jpg) top left no-repeat
+    background: #213915 url(https://andreile.github.io/castlepuzzle/bg-skins/podtops/podtop-green.jpg) top left no-repeat
 }
 
 body.green #footer .siteinfo {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/green-footer.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/green-footer.jpg)
 }
 
 body.green input[type="text"],
@@ -12204,24 +12204,24 @@ body.green input[type="password"],
 body.green div.select,
 body.green select {
     background-color: #90cc6a;
-    background-image: url(//cssimg.ngfiles.com/bg-skins/inputs/input-green.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/inputs/input-green.jpg)
 }
 
 body.green textarea {
     background-color: #90cc6b;
-    background-image: url(//cssimg.ngfiles.com/bg-skins/textareas/textarea-green.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/textareas/textarea-green.jpg)
 }
 
 body.green a.fakebutton,
 body.green button,
 body.green div.upload div {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/buttons/button-green.gif)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/buttons/button-green.gif)
 }
 
 body.green form#votebar,
 body.green form#votebar label,
 body.green form#votebar label span {
-    background-image: url(//cssimg.ngfiles.com/misc/vp-voteDarn.png)
+    background-image: url(https://andreile.github.io/castlepuzzle/misc/vp-voteDarn.png)
 }
 
 body.green .quicklinks>a,
@@ -12382,19 +12382,19 @@ body.green div.cc {
 }
 
 body.pink {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/pink0-body.gif)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/pink0-body.gif)
 }
 
 body.pink #outer {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/pink1-outer.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/pink1-outer.jpg)
 }
 
 body.pink div.podtop {
-    background: #4c1d36 url(//cssimg.ngfiles.com/bg-skins/podtops/podtop-pink.jpg) top left no-repeat
+    background: #4c1d36 url(https://andreile.github.io/castlepuzzle/bg-skins/podtops/podtop-pink.jpg) top left no-repeat
 }
 
 body.pink #footer .siteinfo {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/pink-footer.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/pink-footer.jpg)
 }
 
 body.pink input[type="text"],
@@ -12402,24 +12402,24 @@ body.pink input[type="password"],
 body.pink div.select,
 body.pink select {
     background-color: #f386c5;
-    background-image: url(//cssimg.ngfiles.com/bg-skins/inputs/input-pink.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/inputs/input-pink.jpg)
 }
 
 body.pink textarea {
     background-color: #f280c1;
-    background-image: url(//cssimg.ngfiles.com/bg-skins/textareas/textarea-pink.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/textareas/textarea-pink.jpg)
 }
 
 body.pink a.fakebutton,
 body.pink button,
 body.pink div.upload div {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/buttons/button-pink.gif)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/buttons/button-pink.gif)
 }
 
 body.pink form#votebar,
 body.pink form#votebar label,
 body.pink form#votebar label span {
-    background-image: url(//cssimg.ngfiles.com/misc/vp-voteNene.png)
+    background-image: url(https://andreile.github.io/castlepuzzle/misc/vp-voteNene.png)
 }
 
 body.pink .quicklinks>a,
@@ -12576,19 +12576,19 @@ body.pink div.cc {
 }
 
 body.aqua {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/aqua0-body.gif)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/aqua0-body.gif)
 }
 
 body.aqua #outer {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/aqua0-outer.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/aqua0-outer.jpg)
 }
 
 body.aqua div.podtop {
-    background: #123a2f url(//cssimg.ngfiles.com/bg-skins/podtops/podtop-aqua.jpg) top left no-repeat
+    background: #123a2f url(https://andreile.github.io/castlepuzzle/bg-skins/podtops/podtop-aqua.jpg) top left no-repeat
 }
 
 body.aqua #footer .siteinfo {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/aqua-footer.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/aqua-footer.jpg)
 }
 
 body.aqua input[type="text"],
@@ -12596,24 +12596,24 @@ body.aqua input[type="password"],
 body.aqua div.select,
 body.aqua select {
     background-color: #57ccb1;
-    background-image: url(//cssimg.ngfiles.com/bg-skins/inputs/input-aqua.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/inputs/input-aqua.jpg)
 }
 
 body.aqua textarea {
     background-color: #5dceb4;
-    background-image: url(//cssimg.ngfiles.com/bg-skins/textareas/textarea-aqua.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/textareas/textarea-aqua.jpg)
 }
 
 body.aqua a.fakebutton,
 body.aqua button,
 body.aqua div.upload div {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/buttons/button-aqua.gif)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/buttons/button-aqua.gif)
 }
 
 body.aqua form#votebar,
 body.aqua form#votebar label,
 body.aqua form#votebar label span {
-    background-image: url(//cssimg.ngfiles.com/misc/vp-voteUber.png)
+    background-image: url(https://andreile.github.io/castlepuzzle/misc/vp-voteUber.png)
 }
 
 body.aqua .quicklinks>a,
@@ -12766,19 +12766,19 @@ body.aqua pre {
 }
 
 body.purple {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/purple0-body.gif)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/purple0-body.gif)
 }
 
 body.purple #outer {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/purple1-outer.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/purple1-outer.jpg)
 }
 
 body.purple div.podtop {
-    background: #45284e url(//cssimg.ngfiles.com/bg-skins/podtops/podtop-purple.jpg) top left no-repeat
+    background: #45284e url(https://andreile.github.io/castlepuzzle/bg-skins/podtops/podtop-purple.jpg) top left no-repeat
 }
 
 body.purple #footer .siteinfo {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/purple-footer.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/purple-footer.jpg)
 }
 
 body.purple input[type="text"],
@@ -12786,18 +12786,18 @@ body.purple input[type="password"],
 body.purple div.select,
 body.purple select {
     background-color: #db97ef;
-    background-image: url(//cssimg.ngfiles.com/bg-skins/inputs/input-purple.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/inputs/input-purple.jpg)
 }
 
 body.purple textarea {
     background-color: #db97ef;
-    background-image: url(//cssimg.ngfiles.com/bg-skins/textareas/textarea-purple.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/textareas/textarea-purple.jpg)
 }
 
 body.purple a.fakebutton,
 body.purple button,
 body.purple div.upload div {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/buttons/button-purple.gif)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/buttons/button-purple.gif)
 }
 
 body.purple .quicklinks>a,
@@ -12954,15 +12954,15 @@ body.gray ul.calendarlist li {
 }
 
 body.gray {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/gray0-body.gif)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/gray0-body.gif)
 }
 
 body.gray div.podtop {
-    background: #34393e url(//cssimg.ngfiles.com/bg-skins/podtops/podtop-gray.jpg) top left no-repeat
+    background: #34393e url(https://andreile.github.io/castlepuzzle/bg-skins/podtops/podtop-gray.jpg) top left no-repeat
 }
 
 body.gray #footer .siteinfo {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/gray-footer.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/gray-footer.jpg)
 }
 
 body.gray input[type="text"],
@@ -12970,17 +12970,17 @@ body.gray input[type="password"],
 body.gray div.select,
 body.gray select {
     background-color: #acb9c0;
-    background-image: url(//cssimg.ngfiles.com/bg-skins/inputs/input-gray.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/inputs/input-gray.jpg)
 }
 
 body.gray textarea {
     background-color: #aab8bf;
-    background-image: url(//cssimg.ngfiles.com/bg-skins/textareas/textarea-gray.jpg)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/textareas/textarea-gray.jpg)
 }
 
 body.gray button,
 body.gray div.upload div {
-    background-image: url(//cssimg.ngfiles.com/bg-skins/buttons/button-gray.gif)
+    background-image: url(https://andreile.github.io/castlepuzzle/bg-skins/buttons/button-gray.gif)
 }
 
 body.gray .quicklinks>a,
@@ -13138,7 +13138,7 @@ body.gray pre {
 
 ul.calendar li li,
 ul.calendar li>span>span {
-    background-image: url("//cssimg.ngfiles.com/misc/ul-calendar-gray.png")
+    background-image: url("https://andreile.github.io/castlepuzzle/misc/ul-calendar-gray.png")
 }
 
 ul.calendar li>span>span,
@@ -13217,7 +13217,7 @@ body.gray button:hover.logout {
 }
 
 .playlist li button {
-    background-image: url("//cssimg.ngfiles.com/icons/a-15yellows.png")
+    background-image: url("https://andreile.github.io/castlepuzzle/icons/a-15yellows.png")
 }
 
 table.index thead+tbody>tr:nth-of-type(2n-1) {
@@ -13235,7 +13235,7 @@ ol[class*="faves"] li button,
     height: 15px;
     text-indent: -1500em;
     text-overflow: hidden;
-    background: url(//cssimg.ngfiles.com/icons/a-15yellows.png) -420px 0 no-repeat
+    background: url(https://andreile.github.io/castlepuzzle/icons/a-15yellows.png) -420px 0 no-repeat
 }
 
 div.podtop>.empty {
@@ -15433,11 +15433,11 @@ strong.messenger-icq {
 }
 
 div.podtop div a[class]>span:first-child {
-    background-image: url(http://cssimg.ngfiles.com/icons/a-15yellows-playlist.png)
+    background-image: url(http:https://andreile.github.io/castlepuzzle/icons/a-15yellows-playlist.png)
 }
 
 div.podtop a.pl-add span {
-    background-image: url(http://cssimg.ngfiles.com/icons/a-15yellows-playlist.png);
+    background-image: url(http:https://andreile.github.io/castlepuzzle/icons/a-15yellows-playlist.png);
     background-position: -600px 0
 }
 
@@ -15448,7 +15448,7 @@ div.podtop a:hover.pl-add span {
 div.medalicon div {
     width: 50px;
     height: 50px;
-    background-image: url(http://cssimg.ngfiles.com/icons/medal_overlays.png)
+    background-image: url(http:https://andreile.github.io/castlepuzzle/icons/medal_overlays.png)
 }
 
 div.medalstatus-secret {
