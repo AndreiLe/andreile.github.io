@@ -2366,7 +2366,7 @@ a, a:hover, a:active, a:focus {
   /* */ }
 
 .main-section, .main-section--dark {
-  padding: 30px 0 130px; }
+  padding: 40px 0 130px; }
   .main-section--dark {
     background-color: #eee; }
   .main-section-h2 {
@@ -2420,7 +2420,8 @@ a, a:hover, a:active, a:focus {
       .tile--point-2 span {
         line-height: 280px; }
   .tile-area {
-    /*  */ }
+    margin-top: 105px;
+    margin-bottom: 80px; }
 
 @media only screen and (max-width: 1200px) {
   /* */ }
